@@ -1,1 +1,1 @@
-# My mimi projects and practise files.
+# My mini projects and practise files.
