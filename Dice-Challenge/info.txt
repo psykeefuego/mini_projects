@@ -1,0 +1,1 @@
+A simple HTML, CSS and JS website to simulate dice rolls between two players.
