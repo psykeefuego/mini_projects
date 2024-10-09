@@ -1,0 +1,5 @@
+This is a simple QR code generator developed using JavaScript and Node.
+Node modules used are:
+1. qr-image
+2. filesystem (fs)
+3. inquirer
